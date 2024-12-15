@@ -18,7 +18,7 @@
     "api",
     "sdk"
   ],
-   "author": "JWT Revoke",
+  "author": "JWT Revoke",
   "homepage": "https://jwtrevoke.com",
   "repository": {
     "type": "git",
